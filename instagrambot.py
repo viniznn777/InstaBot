@@ -51,4 +51,4 @@ elif confirmar == 'Ok':
         time.sleep(5)
 
 # Vinicius Kauã
-# Instagram (viniznn.444)
+# Instagram (viniciuskauandev)
