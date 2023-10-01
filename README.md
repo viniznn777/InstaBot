@@ -7,4 +7,4 @@ O código será executado no momento que você clicar em Ok na caixa de mensagem
 O código ficará em loop até que você cancele no seu terminal.
 # Após clicar em OK não mova o mouse ou utilize o computador, deixe apenas o script trabalhando.
 
-Ao reutilizar o código favor deixar os créditos (https://github.com/viniznn777), instagram(viniznn.444).
+Ao reutilizar o código favor deixar os créditos (https://github.com/viniznn777), instagram(viniciuskauandev).
